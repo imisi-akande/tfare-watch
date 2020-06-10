@@ -1,0 +1,2 @@
+ipykernel==5.3.0
+pandas==1.0.4

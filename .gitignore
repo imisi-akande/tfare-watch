@@ -1,0 +1,11 @@
+# virtualenv
+tfare-env/
+
+# Finder stuff
+.DS_Store
+
+# checkpoints
+.ipynb_checkpoints
+
+# data
+/grouped-data
